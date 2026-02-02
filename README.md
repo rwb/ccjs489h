@@ -113,6 +113,16 @@ If credible evidence of a rule violation materializes, it will be reported to th
 
 ## Lesson 1 - Monday 2/2/26
 
+### Thesis Sections
+
+1. Introduction (#1 in the rubric)
+2. Literature Review (can be but doesn't have to be called "Literature Review"; point #2 in the rubric)
+3. Current Study (rubric point #3)
+4. Data (rubric points #4 and #5)
+5. Study Methodology (rubric points #6 and #7)
+6. Results (rubric point #8)
+7. Discussion and Conclusions (rubric point #9)
+
 ### Key features of research
 
 * empirical -- not normative.
