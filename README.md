@@ -110,3 +110,60 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * 4/27/26: Thesis defense session #2 (3 students will present).
 * 5/4/26: Thesis defense session #3 (4 students will present).
 * 5/8/26: Final thesis drafts due at my office on paper by 2pm (ET).
+
+## Lesson 1 - Monday 2/2/26
+
+### Key features of research
+
+* empirical -- not normative.
+* cumulative -- not isolated.
+* replicable and reproducible
+* clear and transparent steps and procedures
+* full recognition of strengths and weaknesses
+* based on a synthesis of logic and creativity
+* Julian Simon (1978:6-7): "a good idea is the keystone of an empirical study."
+* However, good ideas arise from a strong grounding in previous literature.
+
+### Identifying Relevant Literature
+
+* you've already identified a gap in the literature that your project will fill
+* now, you're at the phase where you have to organize and fully describe the literature in your area
+* first step is to make sure your literature review is up to date
+* modern researchers often use [Google Scholar](https://scholar.google.com) as a starting point
+* alternatives would include looking carefully at journals in the field where related articles are published
+* identify an anchoring piece (or pieces) of scholarship in your research area
+* look carefully at the reference list and studies cited within that study
+* then, identify that study on Google Scholar and search for studies that cite your anchoring study (or studies)
+* through this process you will identify a core group of studies that are important for your topic
+* but you then should look carefully at the reference lists for each of the core studies and the studies that have cited your core studies
+* this will give you an even larger list of studies -- many of which will not be featured in your literature review
+* it is your responsibility to continue this process until you have identified the relevant studies in your literature
+* deciding whether a study is relevant is a judgment call
+* all relevant studies need to be considered in your literature review
+* in deciding whether to include a study, you need to ask yourself some questions:
+* question 1: would the reader of my study feel like they were misled if I leave this study out?
+* question 2: would the reader of my study feel like they are being asked to consider extraneous material if I include this study?
+* question 3: is the reader convinced at the end of my literature review that I have truly identified a gap in the literature?
+
+### Synthesizing Literature
+
+* the most basic way to summarize literature is to simply provide an annotated bibliography
+* many researchers will do this as they organize the literature
+* so, an annotated bibliography can be a step along the way
+* but an annotated bibliography is not a literature review
+* there needs to be an organizing framework
+* literature reviews can be organized chronologically
+* literature reviews can be organized thematically
+* literature reviews can be organized methodologically
+* literature reviews can be organized theoretically
+* but there is *always* some sort of organizing strategy
+* and there needs to be critical analysis of the literature
+* simply stating research findings is not enough
+* critical analysis of the literature leads to the point where you describe the gap your research will fill
+
+### Examples
+
+* In addition to the many examples of honors theses posted on the CCJS Honors Archive, I am listing 3 exemplar studies below that illustrate different ways of weaving findings from prior studies into a literature review.
+* Douglas A. Smith and Raymond Paternoster (1990). Formal processing and future delinquency: deviance amplification as selection artifact. *Law & Society Review*, 24:1109-1132.
+* Charles F. Manski and John V. Pepper (2018). How do right-to-carry laws affect crime rates? Coping with ambiguity using bounded-variation assumptions. *Review of Economics & Statistics*, 100:232-244.
+* Michael T. Light and Ty Miller (2018). Does undocumented immigration increase violent crime? *Criminology*, 56:370-401.
