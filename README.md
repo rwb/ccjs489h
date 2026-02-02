@@ -157,7 +157,7 @@ If credible evidence of a rule violation materializes, it will be reported to th
 
 ### Synthesizing Literature
 
-* the most basic way to summarize literature is to simply provide an annotated bibliography
+* the most basic way to summarize literature is to provide an annotated bibliography
 * many researchers will do this as they organize the literature
 * so, an annotated bibliography can be a step along the way
 * but an annotated bibliography is not a literature review
