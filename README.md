@@ -163,7 +163,7 @@ If credible evidence of a rule violation materializes, it will be reported to th
 
 ### Examples
 
-* In addition to the many examples of honors theses posted on the [CCJS Honors Thesis Repository](https://ccjs.umd.edu/undergraduate/independent-research-archive-0), I am listing 3 exemplar studies below that illustrate different ways of weaving findings from prior studies into a literature review.
+* In addition to the many examples of honors theses posted on the [CCJS Honors Thesis Repository](https://ccjs.umd.edu/undergraduate/independent-research-archive-0), I am listing 3 example studies below that illustrate different ways of weaving findings from prior studies into a literature review.
 * Douglas A. Smith and Raymond Paternoster (1990). Formal processing and future delinquency: deviance amplification as selection artifact. *Law & Society Review*, 24:1109-1132.
 * Charles F. Manski and John V. Pepper (2018). How do right-to-carry laws affect crime rates? Coping with ambiguity using bounded-variation assumptions. *Review of Economics & Statistics*, 100:232-244.
 * Michael T. Light and Ty Miller (2018). Does undocumented immigration increase violent crime? *Criminology*, 56:370-401.
