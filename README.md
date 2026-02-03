@@ -92,6 +92,10 @@ minutes of Q&A; slides are consistent with the paper and will be posted along wi
 
 If credible evidence of a rule violation materializes, it will be reported to the Office of Student Conduct in accordance with the University's Academic Integrity Policy. Please note that an Academic Integrity referral does not mean that you have been found responsible for a violation or that I have concluded you are responsible for a violation. It means that an issue of concern has been noted and that the Office of Student Conduct will examine it. A determination of responsibility will only be reached after the Office of Student Conduct has completed its investigation with appropriate due process; as an instructor, my role in the process is a limited one.
 
+# Winston Award
+
+You are invited to consider submitting an advanced draft of your honors thesis for the Winston Award. The submission deadline is Friday March 27, 2026. You should consult the University Honors College's [information about the award](https://honors.umd.edu/current-students/grants-awards/). If you plan to submit your thesis for this award, please discuss it with me because there will be a step I need to address.
+
 # Course Schedule
 
 * 1/26/26: Class cancelled due to inclement weather; syllabus review; review of papers from last semester.
