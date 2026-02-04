@@ -100,6 +100,10 @@ At the end of the semester, I will make a judgement about the best overall thesi
 
 You are invited to consider submitting an advanced draft of your honors thesis for the Winston Award. The submission deadline is Friday March 27, 2026. You should consult the University Honors College's [information about the award](https://honors.umd.edu/current-students/grants-awards/). If you plan to submit your thesis for this award, please discuss it with me because there will be a step I need to address.
 
+# Honors Ice Cream Social
+
+The first ice cream social for this semester is Tuesday, March 10, 2-6pm in Anne Arundel Hall. Also that evening is the First Year Book (FYB) event, the screening of Netflix's Amend, Episode 4, Control. All of the FYB Amend events will be in Anne Arundel Hall and are open.
+
 # Course Schedule
 
 * 1/26/26: Class cancelled due to inclement weather; syllabus review; review of papers from last semester.
