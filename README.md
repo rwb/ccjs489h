@@ -74,7 +74,7 @@ minutes of Q&A; slides are consistent with the paper and will be posted along wi
 
 ## Grading Criteria for Class Participation
 
-1. You are asked to meet with me in-person at the described times in the course schedule below; these meeting should involved substantive discussion about your thesis project including difficulties, issues, or concerns about your project. You should plan for these meetings to be about 30-40 minutes long (maximum of 20 points)
+1. You are asked to meet with me in-person at the described times in the course schedule below; these meetings should involved substantive discussion about your thesis project including difficulties, issues, or concerns about your project. You should plan for these meetings to be about 30-40 minutes long (maximum of 20 points)
 2. On days when we have practice presentations, you are expected to ask at least one substantive question on at least 3 presentations (maximum of 20 points).
 3. On days when you are scheduled to make a practice presentation, you are present, on-time, and well-prepared to give your presentation (maximum of 20 points).
 4. During practice presentations, you directly and thoughtfully address the questions that are presented to you (maximum of 20 points).
@@ -190,3 +190,9 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 1. Douglas A. Smith and Raymond Paternoster (1990). Formal processing and future delinquency: deviance amplification as selection artifact. *Law & Society Review*, 24:1109-1132.
 2. Charles F. Manski and John V. Pepper (2018). How do right-to-carry laws affect crime rates? Coping with ambiguity using bounded-variation assumptions. *Review of Economics & Statistics*, 100:232-244.
 3. Michael T. Light and Ty Miller (2018). Does undocumented immigration increase violent crime? *Criminology*, 56:370-401.
+
+## Lesson 2 - Monday 2/9/26
+
+* I added a couple of announcements to the syllabus up above; please take note.
+* Today, we will be hearing practice literature review presentations from each of you; these presentations will cover items 1-3 in the rubric.
+* Next week, we will not be holding a regular class session but you are asked to set up a time for an individual meeting to discuss your literature review progress.
