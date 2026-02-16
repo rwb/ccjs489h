@@ -196,3 +196,9 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * I added a couple of announcements to the syllabus up above; please take note.
 * Today, we will be hearing practice literature review presentations from each of you; these presentations will cover items 1-3 in the rubric.
 * Next week, we will not be holding a regular class session but you are asked to set up a time for an individual meeting to discuss your literature review progress.
+
+## Lesson 3 - Monday 2/16/26
+
+* This week is individual meetings to discuss your literature reviews (and any other difficulties or issues you're having).
+* You should make an appointment with me and allow 30-40 minutes for the meeting -- sometime this week.
+* Next week, we will be discussing your data and methods sections in preparation for the next phase of your projects.
