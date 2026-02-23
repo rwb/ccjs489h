@@ -202,3 +202,27 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * This week is individual meetings to discuss your literature reviews (and any other difficulties or issues you're having).
 * You should make an appointment with me and allow 30-40 minutes for the meeting -- sometime this week.
 * Next week, we will be discussing your data and methods sections in preparation for the next phase of your projects.
+
+## Lesson 4 - Monday 2/23/26
+
+* We are covering points 4-7 from the rubric.
+* Data source to be used is clearly explained (point 4)
+* Data source to be used is justified (point 5)
+* Clear explanation of how data will be used to address your research question (point 6)
+* Key measures are explained (point 7)
+
+### Point 4: Data source
+
+* We need to describe the data being used.
+* Who collected the data?
+* How was the sample selected? (i.e., how was it decided which cases to study?)
+* How was the data collected? (i.e., what procedures were used?)
+* Was there IRB oversight over the original data collection?
+* Was there IRB oversight over your analysis of the data? If not, why not?
+* *Note*: meta-analytic studies and studies involving the use of aggregated data such as FBI crime statistics or CDC homicide statistics do not generally require IRB approval. Survey data sets generally do involve IRB oversight.
+* Are the data publicly available?
+* If the data are not publicly available, how could another researcher obtain the data?
+* Has the data been previously used for some other purpose? (appropriate citations should be included)
+* Example study: [Loftin et al. (1991)](.
+
+### Point 5:
