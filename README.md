@@ -212,7 +212,7 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * Key measures are explained (point 7)
 * Example study #1: [Loftin et al. (1991)](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305).
 * Example study #2: [Manski and Pepper (2018)](https://direct.mit.edu/rest/article/100/2/232/58452/How-Do-Right-to-Carry-Laws-Affect-Crime-Rates).
-* Example study #3: [Penna (2025)](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/8_Jacqueline%20Penna.pdf)
+* Example study #3: [Penna (2025)](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/8_Jacqueline%20Penna.pdf).
 
 ### Point 4: Data source
 
@@ -242,4 +242,16 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 7. strengths and weaknesses of the data are properly acknowledged
 ---
 
-### Point 6: 
+### Point 6: Using the Data
+
+* How will you work with the data to develop conclusions?
+* Remember Manski's quote: "Assumptions + Data = Conclusions"
+* So, this means also being transparent about how assumptions are combined with the data to reach conclusions.
+* There is a tension between the strength of the assumptions we have to make and the credibility of the conclusions (Manski calls this the "law of decreasing credibility"; I will acronym this as LDC).
+* The LDC states that *ceteris paribus* (all other things equal) -- stronger assumptions correspond to less credible conclusions.
+* Will you calculate a descriptive statistic?
+* Will you estimate a correlation?
+* How will you address the uncertainty of your estimate?
+* Considering the limitations of your data, what will you not be able to do?
+
+### Point 7: 
