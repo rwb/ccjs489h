@@ -223,6 +223,8 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * Are the data publicly available?
 * If the data are not publicly available, how could another researcher obtain the data?
 * Has the data been previously used for some other purpose? (appropriate citations should be included)
-* Example study: [Loftin et al. (1991)](.
+* Example study #1: [Loftin et al. (1991)](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305).
+* Example study #2: [Manski and Pepper (2018)](https://direct.mit.edu/rest/article/100/2/232/58452/How-Do-Right-to-Carry-Laws-Affect-Crime-Rates).
+* Example study #3: [Penna (2025)](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/8_Jacqueline%20Penna.pdf)
 
 ### Point 5:
