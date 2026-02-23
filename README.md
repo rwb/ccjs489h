@@ -242,9 +242,6 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 7. strengths and weaknesses of the data are properly acknowledged
 ---
 
-* Remember, points 4 and 5 are typically integrated into a study data section (section 4 in the outline above).
-* However, you have flexibility in how to structure this.
-
 ### Point 6: Using the Data
 
 * How will you work with the data to develop conclusions?
@@ -263,5 +260,4 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * However, when we work with data, our concepts must be expressed in terms of variables that can be measured.
 * The main part of this point is accurate and complete description of the strengths and weaknesses of the particular measures that will be used.
 * This is different that point 5 where you are justifying the measures; here I am not looking for persuasion that you have adequate measures as much as I'm looking for description and discussion of the measures that are being used.
-* Remember points 6 and 7 are typically integrated into a study methodology section (section 5 above).
-* As with points 4 and 5, you have flexibility in how to structure this.
+* A global point: the material in points 4-7 needs to be included in the paper but you have discretion as to exactly how you will organize it in your paper.
