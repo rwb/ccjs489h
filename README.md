@@ -210,6 +210,9 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * Data source to be used is justified (point 5)
 * Clear explanation of how data will be used to address your research question (point 6)
 * Key measures are explained (point 7)
+* Example study #1: [Loftin et al. (1991)](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305).
+* Example study #2: [Manski and Pepper (2018)](https://direct.mit.edu/rest/article/100/2/232/58452/How-Do-Right-to-Carry-Laws-Affect-Crime-Rates).
+* Example study #3: [Penna (2025)](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/8_Jacqueline%20Penna.pdf)
 
 ### Point 4: Data source
 
@@ -223,8 +226,20 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * Are the data publicly available?
 * If the data are not publicly available, how could another researcher obtain the data?
 * Has the data been previously used for some other purpose? (appropriate citations should be included)
-* Example study #1: [Loftin et al. (1991)](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305).
-* Example study #2: [Manski and Pepper (2018)](https://direct.mit.edu/rest/article/100/2/232/58452/How-Do-Right-to-Carry-Laws-Affect-Crime-Rates).
-* Example study #3: [Penna (2025)](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/8_Jacqueline%20Penna.pdf)
 
-### Point 5:
+### Point 5: Justifying the Data
+
+* We need to answer the question, "why is this dataset a reasonable vehicle to address the research problem?"
+* The justification needs to be based on considerations such as:
+
+---
+1. data accessibility
+2. the time frame in which the data were collected
+3. sample composition (cases that were included and cases that were excluded)
+4. measures of key concepts are available
+5. measures are acceptable in terms of validity and reliability
+6. the procedures used to collect the data are clear and transparent
+7. strengths and weaknesses of the data are properly acknowledged
+---
+
+### Point 6: 
