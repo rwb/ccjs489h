@@ -262,4 +262,4 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * However, when we work with data, our concepts must be expressed in terms of variables that can be measured.
 * The main part of this point is accurate and complete description of the strengths and weaknesses of the particular measures that will be used.
 * This is different that point 5 where you are justifying the measures; here I am not looking for persuasion that you have adequate measures as much as I'm looking for description and discussion of the measures that are being used.
-* Remember points 6 and 7 are typicall integrated into a study methodology section (section 5 above)
+* Remember points 6 and 7 are typically integrated into a study methodology section (section 5 above)
