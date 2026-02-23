@@ -237,10 +237,12 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 2. the time frame in which the data were collected
 3. sample composition (cases that were included and cases that were excluded)
 4. measures of key concepts are available
-5. measures are acceptable in terms of validity and reliability
+5. measures are acceptable in terms of validity and reliability (can often be based on prior literature)
 6. the procedures used to collect the data are clear and transparent
 7. strengths and weaknesses of the data are properly acknowledged
 ---
+
+* Remember, points 4 and 5 and typically integrated into a study data section (section 4 in the outline above).
 
 ### Point 6: Using the Data
 
@@ -254,4 +256,10 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * How will you address the uncertainty of your estimate?
 * Considering the limitations of your data, what will you not be able to do?
 
-### Point 7: 
+### Point 7: Measures
+
+* Researchers typically think about problems and questions in terms of concepts.
+* However, when we work with data, our concepts must be expressed in terms of variables that can be measured.
+* The main part of this point is accurate and complete description of the strengths and weaknesses of the particular measures that will be used.
+* This is different that point 5 where you are justifying the measures; here I am not looking for persuasion that you have adequate measures as much as I'm looking for description and discussion of the measures that are being used.
+* Remember points 6 and 7 are typicall integrated into a study methodology section (section 5 above)
