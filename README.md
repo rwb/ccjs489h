@@ -242,7 +242,8 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 7. strengths and weaknesses of the data are properly acknowledged
 ---
 
-* Remember, points 4 and 5 and typically integrated into a study data section (section 4 in the outline above).
+* Remember, points 4 and 5 are typically integrated into a study data section (section 4 in the outline above).
+* However, you have flexibility in how to structure this.
 
 ### Point 6: Using the Data
 
@@ -251,8 +252,8 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * So, this means also being transparent about how assumptions are combined with the data to reach conclusions.
 * There is a tension between the strength of the assumptions we have to make and the credibility of the conclusions (Manski calls this the "law of decreasing credibility"; I will acronym this as LDC).
 * The LDC states that *ceteris paribus* (all other things equal) -- stronger assumptions correspond to less credible conclusions.
-* Will you calculate a descriptive statistic?
-* Will you estimate a correlation?
+* Will you calculate a descriptive or a difference statistic?
+* Will you estimate a correlation or a regression model?
 * How will you address the uncertainty of your estimate?
 * Considering the limitations of your data, what will you not be able to do?
 
@@ -262,4 +263,5 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * However, when we work with data, our concepts must be expressed in terms of variables that can be measured.
 * The main part of this point is accurate and complete description of the strengths and weaknesses of the particular measures that will be used.
 * This is different that point 5 where you are justifying the measures; here I am not looking for persuasion that you have adequate measures as much as I'm looking for description and discussion of the measures that are being used.
-* Remember points 6 and 7 are typically integrated into a study methodology section (section 5 above)
+* Remember points 6 and 7 are typically integrated into a study methodology section (section 5 above).
+* As with points 4 and 5, you have flexibility in how to structure this.
