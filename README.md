@@ -369,7 +369,7 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * Each year, some agencies across the United States are not represented in the nation's crime statistics.
 * When we compare crime statistics in different years, the problem is compounded.
 * One solution to this problem is to assume that the patterns among the observed agencies are replicated among the missing agencies.
-* We call this the missing-at-random assumption.
+* We call this the missing-at-random (MAR) assumption.
 * Advantage of MAR: we can get a point estimate with a confidence interval.
 * Disadvantage of MAR: we can't test the assumption.
 * Consequence of relying on it: we understate the uncertainty of our analysis.
