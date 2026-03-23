@@ -117,10 +117,10 @@ The first ice cream social for this semester is Tuesday, March 10, 2-6pm in Anne
 * 3/23/26: Results and conclusions sections of your paper; I will assign a few examples for you to look at and we will discuss in class.
 * 3/30/26: Practice presentations (covering points 8-9 from the rubric); these should be 5-7 minutes in length; each student will present results and conclusions; there will be Q&A but each student's slot will cover no more than 15 minutes so we can hear from all 10 students during the class period.
 * 4/6/26: No class but you will bring your draft covering points 8-9 from the rubric to my office (on paper) sometime during the week and we will go over it together. Please make an appointment with me that week. I will have appointments available during our regularly scheduled class period. These appointments will be about 30-40 minutes in length.
-* 4/13/26: Final regular class period where we will review the expectations for defenses and final paper submissions.
-* 4/20/26: Thesis defense session #1 (3 students will present).
-* 4/27/26: Thesis defense session #2 (3 students will present).
-* 5/4/26: Thesis defense session #3 (4 students will present).
+* 4/13/26: ~~Final regular class period where we will review the expectations for defenses and final paper submissions~~ Practice session #1.
+* 4/20/26: ~~Thesis defense session #1 (3 students will present)~~ Practice session #2.
+* 4/27/26: Thesis defense session ~~#2~~ #1 (5 students will present).
+* 5/4/26: Thesis defense session ~~#3~~ #2 (5 students will present).
 * 5/8/26: Final thesis drafts due at my office on paper by 2pm (ET).
 
 ## Lesson 1 - Monday 2/2/26
