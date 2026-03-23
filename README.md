@@ -272,11 +272,13 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * Example presentation:
 
 ---
-### Exploring Changes in City-Level Murder Rates During the Ferguson Era: A Partial Identification Analysis
+##### Exploring Changes in City-Level Murder Rates During the Ferguson Era: A Partial Identification Analysis
 
-* Focus is on changes in murder rates in American cities during the mid-2010's.
-* Key events: Michael Brown killing in August 2014 (Ferguson, MO) and Freddie Gray killing in April 2015 (Baltimore, MD)
-* FBI Director James Comey's speech in the fall of 2015 led to speculation about a "Ferguson effect."
-* A basic hypothesis is that de-policing in the wake of highly publicized police killings is followed by an increase in crime in American cities.
-* 
+* Historical events: police killings of Michael Brown in August 2014 (Ferguson, MO) and Freddie Gray in April 2015 (Baltimore, MD)
+* FBI Director James Comey and the "Ferguson effect": "Far more people are being killed in America’s cities this year than in many years."
+* Changes in murder/homicide rates comparing 2013 to 2015
+  
+---
+##### Prior Literature
 
+* Pyrooz et al. (2016):
