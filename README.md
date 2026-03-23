@@ -261,3 +261,12 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * The main part of this point is accurate and complete description of the strengths and weaknesses of the particular measures that will be used.
 * This is different that point 5 where you are justifying the measures; here I am not looking for persuasion that you have adequate measures as much as I'm looking for description and discussion of the measures that are being used.
 * A global point: the material in points 4-7 needs to be included in the paper but you have discretion as to exactly how you will organize it in your paper.
+
+## Lesson 5 - Monday 3/23/26
+
+* Winston Award preliminary submissions due tomorrow by end of the day.
+* Examples of results and discussion sections
+* Study 1: Loftin et al. (1991; [New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305)).
+* Study 2: Manski and Pepper (2018; [Review of Economics & Statistics](https://www.jstor.org/stable/26616193)).
+* Study 3: Brame (2026; [Journal of Quantitative Criminology](https://link.springer.com/article/10.1007/s10940-025-09651-5)).
+
