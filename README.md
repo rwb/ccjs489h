@@ -296,7 +296,7 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * Hypothesis: If the Ferguson effect envisioned by Director Comey exists, then *p* should be greater than 0.5.
 
 ---
-##### Dataset
+##### Dataset/Methods
 
 * Sample: N = 82 American cities with at least 250,000 population in either 2013, 2014, or 2015.
 * Number of murders is based on the FBI's Uniform Crime Reporting Program for the years 2013 and 2015.
@@ -329,3 +329,11 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 | Newark | 112    | 278,246         | NA           | NA         | 40.252     | NA     | ?   |
 | Portland  | 14    | 609,136         | NA         | NA         | 2.298     | NA   | ?   |
 | Raleigh        | 12    | 428,993         | NA           | NA         | 2.797     | NA     | ?   |
+
+* Analysis objective: develop a valid estimate of *p*.
+
+---
+##### Results
+
+
+
