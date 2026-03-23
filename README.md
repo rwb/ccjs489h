@@ -363,7 +363,6 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 ---
 #### Conclusions
 
-* Scientific research has to confront both what is known and what is unknown.
 * Murder is among the best measured crimes in the United States.
 * Yet, our measures of murder are not without problems.
 * One issue is that our principal law enforcement-based measure of murder is based on voluntary participation by agencies.
@@ -377,4 +376,4 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * A standard MAR analysis would lead us to reject the hypothesis that *p* = 0.5 (a city drawn at random is equally likely to have experienced an increase or a decrease in its murder rate from 2013 to 2015).
 * A partial identification analysis leads us to the conclusion that our sample *p* must be somewhere between 0.585 and 0.634.
 * The confidence interval around the lower bound estimate of 0.585 is [0.462,0.701]; since this confidence interval includes 0.5, we now fail to reject the hypothesis that *p* = 0.5.
-* The data are simply not strong enough to tell us whether *p* is actually greater than 0.5.
+* The data are simply not strong enough to tell us whether *p* is actually greater than 0.5; in other *p* might be greater than 0.5 but it also might be less than 0.5.
