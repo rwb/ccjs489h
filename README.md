@@ -335,7 +335,7 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * 30 cities experienced a decrease
 * 4 cities had missing information
 * estimate *p* = p(observed)*p(increase|observed)+p(missing)*p(increase|missing)
-* In addition to *p*, we will calculate a 90% confidence interval for *p*.
+* In addition to *p*, we will calculate a 95% confidence interval for *p*.
 * Will use the Jeffreys procedure to calculate the confidence interval (i.e., draw simulated *p*'s from a beta distribution with shape parameters 1/2+number of increases and 1/2+number of decreases).
 
 ---
