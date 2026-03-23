@@ -276,7 +276,7 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 
 * Historical events: police killings of Michael Brown in August 2014 (Ferguson, MO) and Freddie Gray in April 2015 (Baltimore, MD)
 * FBI Director James Comey and the "Ferguson effect": "Far more people are being killed in America’s cities this year than in many years."
-* Changes in murder/homicide rates comparing 2013 to 2015
+* Emphasis of this study: changes in murder numbers/rates, comparing 2013 to 2015
   
 ---
 ##### Prior Literature
