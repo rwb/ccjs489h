@@ -276,7 +276,7 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 
 * Historical events: police killings of Michael Brown in August 2014 (Ferguson, MO) and Freddie Gray in April 2015 (Baltimore, MD)
 * FBI Director James Comey and the "Ferguson effect": "Far more people are being killed in America’s cities this year than in many years."
-* Emphasis of this study: changes in murder numbers/rates, comparing 2013 to 2015
+* Emphasis of this study: changes in murder rates, comparing 2013 to 2015
   
 ---
 ##### Prior Literature
@@ -292,9 +292,31 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 
 * Ferguson effect was originally described by Director Comey as a national phenomenon.
 * A basic analysis could compare the murder rates in large American cities between 2013 (the year before Ferguson) and 2015 (the year after Ferguson).
-* Let *p* be the probability that a city drawn at random experienced an increase in its number of murders and its murder rate from 2013 to 2015.
+* Let *p* be the probability that a city drawn at random experienced an increase in its murder rate from 2013 to 2015.
 * Hypothesis: If the Ferguson effect envisioned by Director Comey exists, then *p* should be greater than 0.5.
 
 ---
 ##### Dataset
 
+* Sample: N = 105 American cities with at least 200,000 population in either 2013, 2014, or 2015.
+* Number of murders is based on the FBI's Uniform Crime Reporting Program for the years 2013 and 2015.
+* Population size is reported for each city's jurisdiction for the years 2013-2015.
+* The murder rate is expressed as the number of murders divided by the population size (on a per 100,000 population scale)
+
+| City | 2013 Murders | 2013 Population | 2015 Murders | 2015 Population | 2013 Rate | 2015 Rate | +/- |
+|:-----|-------------:|----------------:|-------------:|----------------:|----------:|----------:|----:|
+| Albuquerque | 37    | 558,165         | 43           | 559,721         | 6.629     | 7.682     | +   |
+| Anaheim     | 11    | 345,320         | 18           | 349,471         | 3.185     | 5.151     | +   |
+| Anchorage   | 14    | 299,455         | 26           | 301,239         | 4.675     | 8.631     | +   |
+| Arlington   | 18    | 378,765         | 8            | 387,565         | 4.752     | 2.064     | -   |
+
+*
+*
+*
+
+| City | 2013 Murders | 2013 Population | 2015 Murders | 2015 Population | 2013 Rate | 2015 Rate | +/- |
+|:-----|-------------:|----------------:|-------------:|----------------:|----------:|----------:|----:|
+| Tulsa          | 60    | 394,498         | 55           | 401,520         | 15.209    | 13.698    | -   | 
+| Virginia Beach | 17    | 450,687         | 19           | 452,797         | 3.772     | 4.196     | +   |
+| Washington DC  | 103    | 646,449         | 162         | 672,228         | 15.933     | 24.099   | +   |
+| Wichita        | 15    | 386,486         | 27           | 389,824         | 3.881     | 6.926     | +   |
