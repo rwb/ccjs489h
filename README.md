@@ -365,7 +365,7 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 
 * Murder is among the best measured crimes in the United States.
 * Yet, our measures of murder are not without problems.
-* One issue is that our principal law enforcement-based measure of murder is based on voluntary participation by agencies.
+* One issue is that our principal law enforcement-based measure of murder (the UCR) is based on voluntary participation by agencies.
 * Each year, some agencies across the United States are not represented in the nation's crime statistics.
 * When we compare crime statistics in different years, the problem is compounded.
 * One solution to this problem is to assume that the patterns among the observed agencies are replicated among the missing agencies.
