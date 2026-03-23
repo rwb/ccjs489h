@@ -298,7 +298,7 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 ---
 ##### Dataset
 
-* Sample: N = 105 American cities with at least 200,000 population in either 2013, 2014, or 2015.
+* Sample: N = 82 American cities with at least 250,000 population in either 2013, 2014, or 2015.
 * Number of murders is based on the FBI's Uniform Crime Reporting Program for the years 2013 and 2015.
 * Population size is reported for each city's jurisdiction for the years 2013-2015.
 * The murder rate is expressed as the number of murders divided by the population size (on a per 100,000 population scale)
@@ -320,3 +320,12 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 | Virginia Beach | 17    | 450,687         | 19           | 452,797         | 3.772     | 4.196     | +   |
 | Washington DC  | 103    | 646,449         | 162         | 672,228         | 15.933     | 24.099   | +   |
 | Wichita        | 15    | 386,486         | 27           | 389,824         | 3.881     | 6.926     | +   |
+
+* A problem is that for 4 of the 82 cities, it is not possible to tell whether the murder rate increased or decreased:
+
+| City | 2013 Murders | 2013 Population | 2015 Murders | 2015 Population | 2013 Rate | 2015 Rate | +/- |
+|:-----|-------------:|----------------:|-------------:|----------------:|----------:|----------:|----:|
+| Honolulu       | NA    | NA         | 15           | 999,307         | NA    | 1.501    | ?   | 
+| Newark | 112    | 278,246         | NA           | NA         | 40.252     | NA     | ?   |
+| Portland  | 14    | 609,136         | NA         | NA         | 2.298     | NA   | ?   |
+| Raleigh        | 12    | 428,993         | NA           | NA         | 2.797     | NA     | ?   |
