@@ -269,4 +269,14 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 * Study 1: Loftin et al. (1991; [New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305)).
 * Study 2: Manski and Pepper (2018; [Review of Economics & Statistics](https://www.jstor.org/stable/26616193)).
 * Study 3: Brame (2026; [Journal of Quantitative Criminology](https://link.springer.com/article/10.1007/s10940-025-09651-5)).
+* Example presentation:
+
+---
+### Exploring Changes in City-Level Murder Rates During the Ferguson Era: A Partial Identification Analysis
+
+* Focus is on changes in murder rates in American cities during the mid-2010's.
+* Key events: Michael Brown killing in August 2014 (Ferguson, MO) and Freddie Gray killing in April 2015 (Baltimore, MD)
+* FBI Director James Comey's speech in the fall of 2015 led to speculation about a "Ferguson effect."
+* A basic hypothesis is that de-policing in the wake of highly publicized police killings is followed by an increase in crime in American cities.
+* 
 
