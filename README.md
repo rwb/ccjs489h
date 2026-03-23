@@ -281,4 +281,20 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 ---
 ##### Prior Literature
 
-* Pyrooz et al. (2016):
+* Pyrooz et al. (2016): examined changes in crime rates in large U.S. cities (105 cities with >200k population in 2010; compared 12 months before and after the Brown killing in Ferguson); no evidence of significant change.
+* Rosenfeld (2015): distinguishes between 2 different Ferguson effects; studied 56 large American cities; 40 cities increased and 16 cities decreased from 2014-2015; considerable heterogeneity in city-specific trends.
+* Rosenfeld and Wallman (2019); national study of the "spike" in murder rates from 2014-15; 53 large American cities studied from 2010-2015; effort to study the effect of arrest rates on murder rates.
+* Gaston et al. (2019) studied homicide rates using CDC data from 2014-2016; goal was to determine whether police killings and civil unrest related to police killings and the opioid epidemic drove homicide rates higher in 586 urban American counties (population > 100k).
+* Important themes in the literature: missing data, strong identification assumptions, and ambiguity about the proper independent variable(s) to use.
+
+---
+##### Hypothesis
+
+* Ferguson effect was originally described by Director Comey as a national phenomenon.
+* A basic analysis could compare the murder rates in large American cities between 2013 (the year before Ferguson) and 2015 (the year after Ferguson).
+* Let *p* be the probability that a city drawn at random experienced an increase in its number of murders and its murder rate from 2013 to 2015.
+* Hypothesis: If the Ferguson effect envisioned by Director Comey exists, then *p* should be greater than 0.5.
+
+---
+##### Dataset
+
