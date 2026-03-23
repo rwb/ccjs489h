@@ -331,9 +331,50 @@ In addition to the many examples of honors theses posted on the [CCJS Honors The
 | Raleigh        | 12    | 428,993         | NA           | NA         | 2.797     | NA     | ?   |
 
 * Analysis objective: develop a valid estimate of *p*.
+* 48 cities experienced an increase
+* 30 cities experienced a decrease
+* 4 cities had missing information
+* estimate *p* = p(observed)*p(increase|observed)+p(missing)*p(increase|missing)
+* In addition to *p*, we will calculate a 90% confidence interval for *p*.
+* Will use the Jeffreys procedure to calculate the confidence interval (i.e., draw simulated *p*'s from a beta distribution with shape parameters 1/2+number of increases and 1/2+number of decreases).
 
 ---
-#### Results
+#### Missing-At-Random Results
 
+* Recall that *p* = p(observed)*p(increase|observed)+p(missing)*p(increase|missing)
+* p(observed) = 78/82
+* p(increase|observed) = 48/78
+* p(missing) = 4/82
+* p(increase|missing) = ?/4
+* missing-at-random (mar) estimate = p(observed)*p(increase|observed)+p(missing)*p(increase|observed)
+* mar.est = 78/82 x 48/78 + 4/82 x 48/78 = 0.615
+* 95% confidence interval around mar.est = [0.505,0.718]
+* reject Ho that p = 0.5
 
+---
+#### Bounds Analysis
 
+* minimum value of *p* consistent with the data: 78/82 x 48/78 + 4/82 x 0/4 = 0.585
+* maximum value of *p* consistent with the data: 78/82 x 48/78 + 4/82 x 4/4 = 0.634
+* notice that 0.634-0.585 = 0.049 which is the same as 4/82 (fraction of cases that are missing)
+* 95% confidence interval for the lower and upper bounds: LB: [0.462,0.701] and UB: [0.511,0.745]
+* with 4 cities missing, out of 82 cities, the dominant sign of change (p < 0.5 or p > 0.5) is not identified.
+
+---
+#### Conclusions
+
+* Scientific research has to confront both what is known and what is unknown.
+* Murder is among the best measured crimes in the United States.
+* Yet, our measures of murder are not without problems.
+* One issue is that our principal law enforcement-based measure of murder is based on voluntary participation by agencies.
+* Each year, some agencies across the United States are not represented in the nation's crime statistics.
+* When we compare crime statistics in different years, the problem is compounded.
+* One solution to this problem is to assume that the patterns among the observed agencies are replicated among the missing agencies.
+* We call this the missing-at-random assumption.
+* Advantage of MAR: we can get a point estimate with a confidence interval.
+* Disadvantage of MAR: we can't test the assumption.
+* Consequence of relying on it: we understate the uncertainty of our analysis.
+* A standard MAR analysis would lead us to reject the hypothesis that *p* = 0.5 (a city drawn at random is equally likely to have experienced an increase or a decrease in its murder rate from 2013 to 2015).
+* A partial identification analysis leads us to the conclusion that our sample *p* must be somewhere between 0.585 and 0.634.
+* The confidence interval around the lower bound estimate of 0.585 is [0.462,0.701]; since this confidence interval includes 0.5, we now fail to reject the hypothesis that *p* = 0.5.
+* The data are simply not strong enough to tell us whether *p* is actually greater than 0.5.
